@@ -1,6 +1,6 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :21.05.2026
+# Date :24.05.2026
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
